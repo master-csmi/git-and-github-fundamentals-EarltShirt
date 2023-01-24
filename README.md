@@ -1,5 +1,7 @@
 # :wave: The Basics of GitHub 
 
+Good job
+
 the change has been synced to the remote repository
 ## 🤓 Course overview and learning outcomes 
 
